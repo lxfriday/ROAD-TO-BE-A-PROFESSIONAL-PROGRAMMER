@@ -1,11 +1,11 @@
-<div style="text-align:center">
+<p align="center">
     <img src="./assets/logo.jpg" width=300>
-    <p style="font-size:30px;font-weight:bold;">ROAD TO BE A PROFESSIONAL PROGRAMMER</p>
-    <p>
-        TARGET：近乎全部知识索引，从这里查找就足够了
-    </p>
-</div>
+</p>
+<p align="center">
+  TARGET：近乎全部知识索引，从这里查找就足够了
+</p>
 
+<h2 align="center">ROAD TO BE A PROFESSIONAL PROGRAMMER</h2>
 
 ## BASE
 - [计算机组成原理](./计算机组成原理.md)
@@ -180,7 +180,7 @@
         1. 动态分配内存
             1. C 的动态分配变量
             1. C++ 的动态分配变量
-        1. 单项链表
+        1. 单向链表
             1. 建立单向链表
             1. 遍历单向链表
             1. 释放单向链表节点的空间
@@ -272,7 +272,7 @@
     1. 排序
         1. 排序简介
         1. 内部排序法
-            1.冒泡
+            1. 冒泡排序法
             1. 选择排序法
             1. 插入排序法
             1. 希尔排序法
